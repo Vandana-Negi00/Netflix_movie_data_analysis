@@ -74,7 +74,7 @@ The dataset includes information such as movie title, release date, popularity, 
 * Drama is the most frequent genre with 3,744 entries, followed by Comedy with 3,041
 * The Average rating category has the highest total votes with 3,02,40,983
 * Spider-Man: No Way Home (2021) has the highest popularity score of 5083.954 with 8,940 votes and belongs to Action, Adventure, and Science Fiction genres
-* Movies with the lowest popularity include The United States vs. Billie Holiday (2021) with a popularity of 13.354 and The Traps (1984) with a popularity of 13.354
+* Movies with the lowest popularity include The United States vs. Billie Holiday (2021) with a popularity of 13.354 and The Threads (1984) with a popularity of 13.354
 * The year 2021 has the highest number of movie releases with a total of 1,638
 
 ---
